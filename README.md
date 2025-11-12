@@ -10,4 +10,5 @@ Highly recommend downloading files first.
 OS1 - Windows 12, but cleaner. [INCOMPLETE]
 
 pyDesk - General utility for wiki search, notes, translation, and more.
+
 ^^^ Python3.13 or above. Install CustomTkinter and Pillow. ^^^
