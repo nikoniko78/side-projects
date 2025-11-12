@@ -8,3 +8,6 @@ Highly recommend downloading files first.
 [Windows 12 in powerpoint](https://cobbk12org-my.sharepoint.com/:p:/g/personal/joseph_locasto_students_cobbk12_org1/EdkuKdvS19FCrqKGXUjBUk4BHpg8ue7hVHvEZsfAb6z0uw?e=nMEzhm) - 49mb
 
 OS1 - Windows 12, but cleaner. [INCOMPLETE]
+
+pyDesk - General utility for wiki search, notes, translation, and more.
+^^^ Python3.13 or above. Install CustomTkinter and Pillow. ^^^
